@@ -1,0 +1,29 @@
+html{
+    background-color: #212529;
+}
+
+.cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1.5rem;
+    background-color: #212529;
+}
+
+.cardDiv{
+    height: 400px;
+    width: 70%;
+    background-color: rgb(253, 253, 253);
+    flex-direction: column;
+}
+
+.input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.details{
+    color: white;
+}
